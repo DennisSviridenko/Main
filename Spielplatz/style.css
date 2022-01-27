@@ -3,7 +3,12 @@ body {
 }
 
 .main {
-  color: Green;
-  text-align: center;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  display:block;
+  width:600px;
+  margin:100px auto;
+  font-family:Roboto Mono;
+  font-weight:300;
+  line-height:1.7;
+  text-shadow: #0ee027 0 0 0.8rem;
+  color:#0ee027;
 }
