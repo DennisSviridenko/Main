@@ -11,5 +11,5 @@ main {
 }
 
 #Bild {
-  filter: blur(100%);
+  background-color: Green;
 }
