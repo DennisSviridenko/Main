@@ -11,5 +11,5 @@ main {
 }
 
 #Bild:hover {
-  filter: blur();
+  filter: blur(60%);
 }
