@@ -10,6 +10,6 @@ main {
   color:#0ee027;
 }
 
-#Bild:hover {
-  filter: blur(60%);
+#Bild {
+  filter: blur(100%);
 }
